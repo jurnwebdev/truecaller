@@ -8,6 +8,10 @@
     color: #0987FF;
 }
 
+.secondary-blue{
+    background-color: #E5F3FF;
+}
+
 .container-banner{
     background-image: url(/images/home-banner.jpg);
     background-size: cover;
@@ -285,3 +289,63 @@
     display: flex;
     justify-content: center;
 }
+
+.see-all{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+}
+
+.arrow{
+    margin-left: 20px;
+}
+
+.full-width{
+    padding: 100px 0 0 100px;
+}
+
+.btn-custom{
+    font-size: 12px;
+    line-height: 10px;
+    font-weight: 700;
+    color: #0987FF;
+    padding: 20px 30px;
+    background-color: transparent;
+    border-radius: 50px;
+    border: 2px solid #0987FF;
+    width:150px
+}
+
+.p-bottom-20{
+    padding-bottom:20px;
+}
+
+.iphone-holder{
+    /* display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    background-color: red; */
+    padding: 0 50px;
+}
+
+
+.iphone-left{
+    margin:0 50px !important;
+    padding: 0 50px !important;
+}
+
+.impact-left-col{
+    background-image: url(/images/impact-banner.png);
+    background-size: cover;
+   
+}
+
+.impact-right-col{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 150px 70px !important;
+}
+
