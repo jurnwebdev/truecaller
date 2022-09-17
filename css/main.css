@@ -56,14 +56,14 @@
 }
 
 .logo{
-    background-color: blue;
+    background-color: green;
 }
 
 .menu{
-    background-color: green;
+    background-color: rgb(255, 255, 255);
 }
 .download-btn{
-    background-color: #0987FF;
+    background-color: green;
 }
 
 .nav-mobile-holder{
